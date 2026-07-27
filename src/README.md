@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Eventos Olímpicos
+# Sistema de Gerenciamento Olímpico em C++
 
 Este projeto é uma aplicação de console desenvolvida em C++ para gerenciar e analisar dados de eventos olímpicos, aplicando e demonstrando os conceitos fundamentais da **Programação Orientada a Objetos (POO)**, como Herança, Polimorfismo e Associações Bidirecionais.
 
@@ -25,21 +25,22 @@ make
 
 Após a compilação bem-sucedida, você pode iniciar o programa usando a regra run do Makefile:
 
-```bash
+``bash
 make run
-```
 
 Alternativamente, você pode executar o arquivo diretamente:
 
-```bash
+``bash
 ./gestao_olimpica
-```
 
 Ao iniciar, o sistema carregará automaticamente todos os dados e exibirá o menu principal.
 
 ### 4. Limpeza do Projeto
 Para remover todos os arquivos intermediários (.o) e o executável final utilize a regra clean:
 
-```bash
+``bash
 make clean
-```
+
+
+### LINK DOS VIDEOS EXPLICATIVOS:
+https://drive.google.com/drive/folders/1s8pxPGw03esBAWMj_9i8kJCPoP8V0xpl?usp=sharing
