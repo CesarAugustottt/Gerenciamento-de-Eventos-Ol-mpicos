@@ -18,8 +18,9 @@ Certifique-se de que o compilador **g++** (padrão C++17) e a ferramenta **make*
 
 Para compilar todos os arquivos-fonte (`.cpp`) e gerar o executável final (`gestao_olimpica`), utilize o comando `make`:
 
-``bash
+```bash
 make
+```
 
 ### 3. Execução do Sistema
 
